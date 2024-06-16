@@ -36,6 +36,8 @@ Install all project dependencies by running the command below
  
 ``` 
   $ bundle install
+  $ rails db:create
+  $ rails db:migrate
 ```
 
 ### Run the application
